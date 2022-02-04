@@ -12,7 +12,7 @@ const srcPath = path.resolve(rootPath, 'src');
 const staticPath = path.resolve(rootPath, 'static');
 
 /** Path to views folder */
-const viewsPath = path.resolve(rootPath, 'src/views');
+const viewsPath = path.resolve(srcPath, 'views');
 
 /** List of available views for pages */
 const views = [
