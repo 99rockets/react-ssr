@@ -1,0 +1,12 @@
+{
+  "overrides": [
+	{
+	  "customSyntax": "postcss-styled",
+	  "files": ["**/*.ts", "**/*.tsx"]
+	}
+  ],
+  "rules": {
+	"indentation": "tab",
+	"color-hex-case": "lower"
+  }
+}

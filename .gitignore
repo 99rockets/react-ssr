@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.vscode/
+.cert/
+dist/
+static/
+node_modules/
+npm-debug.log
+.eslintcache
